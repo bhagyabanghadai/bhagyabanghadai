@@ -1,105 +1,127 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=32&pause=1000&color=5DF4FF&center=true&vCenter=true&width=900&height=70&lines=Bhagyaban+Ghadai;Java+Full+Stack+%2B+AI+Trailblazer;Designing+cloud-native+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=36&duration=2500&pause=600&color=37F8C3&center=true&vCenter=true&width=900&lines=Bhagyaban+Ghadai;Java+Full+Stack+%2B+AI+Trailblazer;Designing+Living+Experiences" alt="Animated headline" />
 
-  <img src="https://komarev.com/ghpvc/?username=bhagyabanghadai&style=flat-square&color=blueviolet" alt="profile views" />
+  <p>
+    <b>Product-caliber full stack experiences</b> • <b>Event-native systems</b> • <b>AI copilots that stay shippable</b>
+  </p>
+
+  <a href="mailto:hello@bhagyabanghadai.dev"><img src="https://img.shields.io/badge/Mail-hello%40bhagyabanghadai.dev-1e1e2f?style=for-the-badge&logo=gmail&logoColor=white" alt="email badge" /></a>
+  <a href="https://bhagyabanghadai.dev"><img src="https://img.shields.io/badge/Portfolio-live-4f46e5?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-network-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=bhagyabanghadai&style=flat-square&color=7f5af0" alt="profile views" />
 </div>
 
 ---
 
-## 🌌 Signature Blend
+## ☄️ Signature Blend
 <table>
   <tr>
     <td width="50%">
-      <strong>UI-crafted narrative</strong>
+      <h4 align="center">Narrative Snapshot</h4>
       <ul>
-        <li>Architect of immersive Java + TypeScript experiences that behave like products, not resumes.</li>
-        <li>LLM + RAG tinkerer with a bias for measurable automation wins.</li>
-        <li>Believer in bold color palettes, purposeful whitespace, and stories told through dashboards.</li>
+        <li>Craft product-ready UIs with Java/Spring + Next.js stacks that feel like mini apps.</li>
+        <li>Pair AI copilots (LLMs, RAG, agents) with telemetry + guardrails for dependable automation.</li>
+        <li>Obsessed with smooth motion, low-latency APIs, and data stories told through live dashboards.</li>
       </ul>
     </td>
     <td>
-      <strong>Currently vibing with</strong>
+      <h4 align="center">Now Playing</h4>
       <ul>
-        <li>Multi-agent copilots for platform teams.</li>
-        <li>Event-driven mesh + AI observability.</li>
-        <li>Reactive UIs powered by streaming inference.</li>
+        <li>Design systems with shadcn/ui + Tailwind tokens.</li>
+        <li>Inference meshes on Kubernetes with gateway orchestration.</li>
+        <li>Multi-agent planners evaluating code, releases, and incidents.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-## 🛠️ Dynamic Skill Atlas
+## 🧠 Tech + AI Universe
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,quarkus,ts,react,nextjs,tailwind,postgresql,redis,docker,kubernetes,aws,azure,gcp" alt="skill icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,quarkus,ts,react,nextjs,astro,tailwind,postgresql,mongodb,redis,graphql,aws,azure,gcp,docker,kubernetes,terraform,githubactions" alt="skills" />
 </div>
 
 | Layer | Highlights |
 | --- | --- |
-| Experience | Java 17+, Spring Boot, WebFlux, Micronaut, Quarkus, Node.js, GraphQL, gRPC |
-| Interface | React/Next.js, Astro, SSG/ISR hybrids, Tailwind, shadcn/ui, design systems |
-| Data + Intelligence | PostgreSQL, MongoDB, Neo4j, Redis, vector DBs (Pinecone, Weaviate) |
-| AI Systems | LLM fine-tuning, RAG blueprints, guardrails, LangChain, LlamaIndex, BentoML |
-| Cloud Native | Docker, Kubernetes, Terraform, GitHub Actions, ArgoCD, OpenTelemetry |
-| Quality Signals | JUnit 5, Mockito, Testcontainers, Cypress, Playwright, SonarQube |
+| Experience APIs | Java 17, Spring Boot/WebFlux, Micronaut, Quarkus, gRPC, GraphQL |
+| Front-of-House | React/Next.js, Astro islands, Motion components, shadcn/ui, Storybook systems |
+| Intelligence | LangChain, LlamaIndex, BentoML, OpenAI, Anthropic, Guardrails, vector DBs |
+| Platforms | Docker, Kubernetes, Terraform, GitHub Actions, ArgoCD, OpenTelemetry |
+| Quality | JUnit 5, Mockito, Testcontainers, Playwright, Cypress, Sonar, Chaos tooling |
 
-## 🎨 Experience Cards
+## 🧩 AI Systems Lab
+<details open>
+  <summary><b>Blueprints</b></summary>
+  <ul>
+    <li>RAG pipelines with semantic caching, prompt routers, and evaluation harnesses.</li>
+    <li>Streaming inference mesh (FastAPI + Spring WebFlux) with Kafka events + weighted canaries.</li>
+    <li>Trust stack: PIIDetection, ethical guardrails, Observability with W&B + Evidently.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>How I Iterate</b></summary>
+  <ul>
+    <li>Design partner loops with PM/Design to craft color stories, microcopy, and prototype labs.</li>
+    <li>Productized runbooks for infra-as-code, chaos drills, trunk-based shipping.</li>
+    <li>Storytelling via cinematic demos, changelog portals, and live office hours.</li>
+  </ul>
+</details>
+
+## 🛰️ Launch Highlights
 <div align="center">
   <table>
     <tr>
       <td width="33%">
         <h4>Generative Support Hub</h4>
-        <p>Spring Boot + LangChain + Pinecone orchestration.<br/>64% faster support resolutions via contextual RAG.</p>
+        <p>Spring Boot + LangChain + Pinecone. Context RAG + agent routing → 64% faster resolutions.</p>
       </td>
       <td width="33%">
         <h4>Predictive Quality Gate</h4>
-        <p>Streaming anomaly detection + GitHub Actions.<br/>Dynamic CI blocks based on ML risk signals.</p>
+        <p>Streaming anomaly detection feeding GitHub Actions. CI auto-blocks on ML risk signals.</p>
       </td>
       <td width="33%">
         <h4>Realtime Trading Visualizer</h4>
-        <p>Next.js micro-frontends with WebSockets.<br/>Motion-first dashboards with server-driven UI.</p>
+        <p>Next.js micro-frontends, WebSockets, motion-first dashboards for traders.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4>AI Observability Copilot</h4>
+        <p>Multi-agent evaluator scoring prompts + hallucinations, surfacing via Grafana boards.</p>
+      </td>
+      <td>
+        <h4>Platform Modernization Kit</h4>
+        <p>Monolith to modular event mesh, Terraform + ArgoCD blue/green orchestrations.</p>
+      </td>
+      <td>
+        <h4>Studio-grade UI Library</h4>
+        <p>Token-driven theme packs, Storybook docs, and UI health monitors.</p>
       </td>
     </tr>
   </table>
 </div>
 
-## 🔁 Toggleable Deep Dive
-<details>
-  <summary><strong>AI Playbooks & Experimentation</strong></summary>
-  <ul>
-    <li>Blueprints for retrieval orchestration, semantic caching, and prompt routers.</li>
-    <li>FastAPI + WebFlux inference mesh with Kafka streams and weighted A/B evals.</li>
-    <li>Ethical guardrails: PIIDetection, bias radar, telemetry with Weights & Biases + Evidently.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>Product Mindset & Delivery</strong></summary>
-  <ul>
-    <li>Design partner with PMs/Design to ship themed releases (color systems, motion, microcopy).</li>
-    <li>Runbooks for infra-as-code, trunk-based delivery, chaos drills.</li>
-    <li>Storytelling via changelog portals, visual retros, and live demos.</li>
-  </ul>
-</details>
-
 ## 📊 Live Pulse
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyabanghadai&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyabanghadai&theme=tokyonight&hide_border=true" alt="Streak stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=bhagyabanghadai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhagyabanghadai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyabanghadai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyabanghadai&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
-## 🧭 Navigation Map
-| Column | Threads |
+## 🧭 Collaboration Map
+| Track | What you can expect |
 | --- | --- |
-| **Build** | Polyglot APIs, domain-driven microservices, event choreography |
-| **Learn** | GraalVM native images, vector-native datastores, agents that plan & critique |
-| **Share** | Workshops on AI UX, pair design jams, OSS observability contributions |
+| Build | Polyglot APIs, domain-driven microservices, agent-enhanced workflows |
+| Learn | GraalVM native images, vector-native stores, multi-agent planning and critiques |
+| Share | Workshops on AI UX, design jams, OSS observability + resilience contributions |
 
 ## 🤝 Signal Boost
 - 💌 **hello@bhagyabanghadai.dev**
 - 🌐 **[Portfolio](https://bhagyabanghadai.dev)** | **[LinkedIn](https://www.linkedin.com/)** | **[Twitter](https://twitter.com/)**
-- 🗓️ Open for collabs on AI copilots, visual dashboards, and platform modernization.
+- 🗓️ Open for collaborations on AI copilots, immersive dashboards, and platform modernization.
 
 > "Make software feel alive—rich UI, adaptive intelligence, relentless polish."
