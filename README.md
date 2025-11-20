@@ -1,148 +1,134 @@
-diff --git a/README.md b/README.md
-index 65c2a39b80d4d537513f0dc7935bc481a46ec7dc..ed72ee4b773a926473735f91b783725ac728c5a9 100644
---- a/README.md
-+++ b/README.md
-@@ -1,16 +1,127 @@
--## Hi there 👋
--
--<!--
--**bhagyabanghadai/bhagyabanghadai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--
--Here are some ideas to get you started:
--
--- 🔭 I’m currently working on ...
--- 🌱 I’m currently learning ...
--- 👯 I’m looking to collaborate on ...
--- 🤔 I’m looking for help with ...
--- 💬 Ask me about ...
--- 📫 How to reach me: ...
--- 😄 Pronouns: ...
--- ⚡ Fun fact: ...
---->
-+<div align="center">
-+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=36&duration=2500&pause=600&color=37F8C3&center=true&vCenter=true&width=900&lines=Bhagyaban+Ghadai;Java+Full+Stack+%2B+AI+Trailblazer;Designing+Living+Experiences" alt="Animated headline" />
-+
-+  <p>
-+    <b>Product-caliber full stack experiences</b> • <b>Event-native systems</b> • <b>AI copilots that stay shippable</b>
-+  </p>
-+
-+  <a href="mailto:hello@bhagyabanghadai.dev"><img src="https://img.shields.io/badge/Mail-hello%40bhagyabanghadai.dev-1e1e2f?style=for-the-badge&logo=gmail&logoColor=white" alt="email badge" /></a>
-+  <a href="https://bhagyabanghadai.dev"><img src="https://img.shields.io/badge/Portfolio-live-4f46e5?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
-+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-network-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-+
-+  <br/>
-+  <img src="https://komarev.com/ghpvc/?username=bhagyabanghadai&style=flat-square&color=7f5af0" alt="profile views" />
-+</div>
-+
-+---
-+
-+## ☄️ Signature Blend
-+<table>
-+  <tr>
-+    <td width="50%">
-+      <h4 align="center">Narrative Snapshot</h4>
-+      <ul>
-+        <li>Craft product-ready UIs with Java/Spring + Next.js stacks that feel like mini apps.</li>
-+        <li>Pair AI copilots (LLMs, RAG, agents) with telemetry + guardrails for dependable automation.</li>
-+        <li>Obsessed with smooth motion, low-latency APIs, and data stories told through live dashboards.</li>
-+      </ul>
-+    </td>
-+    <td>
-+      <h4 align="center">Now Playing</h4>
-+      <ul>
-+        <li>Design systems with shadcn/ui + Tailwind tokens.</li>
-+        <li>Inference meshes on Kubernetes with gateway orchestration.</li>
-+        <li>Multi-agent planners evaluating code, releases, and incidents.</li>
-+      </ul>
-+    </td>
-+  </tr>
-+</table>
-+
-+## 🧠 Tech + AI Universe
-+<div align="center">
-+  <img src="https://skillicons.dev/icons?i=java,spring,quarkus,ts,react,nextjs,astro,tailwind,postgresql,mongodb,redis,graphql,aws,azure,gcp,docker,kubernetes,terraform,githubactions" alt="skills" />
-+</div>
-+
-+| Layer | Highlights |
-+| --- | --- |
-+| Experience APIs | Java 17, Spring Boot/WebFlux, Micronaut, Quarkus, gRPC, GraphQL |
-+| Front-of-House | React/Next.js, Astro islands, Motion components, shadcn/ui, Storybook systems |
-+| Intelligence | LangChain, LlamaIndex, BentoML, OpenAI, Anthropic, Guardrails, vector DBs |
-+| Platforms | Docker, Kubernetes, Terraform, GitHub Actions, ArgoCD, OpenTelemetry |
-+| Quality | JUnit 5, Mockito, Testcontainers, Playwright, Cypress, Sonar, Chaos tooling |
-+
-+## 🧩 AI Systems Lab
-+<details open>
-+  <summary><b>Blueprints</b></summary>
-+  <ul>
-+    <li>RAG pipelines with semantic caching, prompt routers, and evaluation harnesses.</li>
-+    <li>Streaming inference mesh (FastAPI + Spring WebFlux) with Kafka events + weighted canaries.</li>
-+    <li>Trust stack: PIIDetection, ethical guardrails, Observability with W&B + Evidently.</li>
-+  </ul>
-+</details>
-+
-+<details>
-+  <summary><b>How I Iterate</b></summary>
-+  <ul>
-+    <li>Design partner loops with PM/Design to craft color stories, microcopy, and prototype labs.</li>
-+    <li>Productized runbooks for infra-as-code, chaos drills, trunk-based shipping.</li>
-+    <li>Storytelling via cinematic demos, changelog portals, and live office hours.</li>
-+  </ul>
-+</details>
-+
-+## 🛰️ Launch Highlights
-+<div align="center">
-+  <table>
-+    <tr>
-+      <td width="33%">
-+        <h4>Generative Support Hub</h4>
-+        <p>Spring Boot + LangChain + Pinecone. Context RAG + agent routing → 64% faster resolutions.</p>
-+      </td>
-+      <td width="33%">
-+        <h4>Predictive Quality Gate</h4>
-+        <p>Streaming anomaly detection feeding GitHub Actions. CI auto-blocks on ML risk signals.</p>
-+      </td>
-+      <td width="33%">
-+        <h4>Realtime Trading Visualizer</h4>
-+        <p>Next.js micro-frontends, WebSockets, motion-first dashboards for traders.</p>
-+      </td>
-+    </tr>
-+    <tr>
-+      <td>
-+        <h4>AI Observability Copilot</h4>
-+        <p>Multi-agent evaluator scoring prompts + hallucinations, surfacing via Grafana boards.</p>
-+      </td>
-+      <td>
-+        <h4>Platform Modernization Kit</h4>
-+        <p>Monolith to modular event mesh, Terraform + ArgoCD blue/green orchestrations.</p>
-+      </td>
-+      <td>
-+        <h4>Studio-grade UI Library</h4>
-+        <p>Token-driven theme packs, Storybook docs, and UI health monitors.</p>
-+      </td>
-+    </tr>
-+  </table>
-+</div>
-+
-+## 📊 Live Pulse
-+<div align="center">
-+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyabanghadai&theme=tokyonight&hide_border=true" alt="Streak stats" />
-+  <br/>
-+  <img src="https://github-readme-stats.vercel.app/api?username=bhagyabanghadai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-+  <br/>
-+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyabanghadai&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-+</div>
-+
-+## 🧭 Collaboration Map
-+| Track | What you can expect |
-+| --- | --- |
-+| Build | Polyglot APIs, domain-driven microservices, agent-enhanced workflows |
-+| Learn | GraalVM native images, vector-native stores, multi-agent planning and critiques |
-+| Share | Workshops on AI UX, design jams, OSS observability + resilience contributions |
-+
-+## 🤝 Signal Boost
-+- 💌 **hello@bhagyabanghadai.dev**
-+- 🌐 **[Portfolio](https://bhagyabanghadai.dev)** | **[LinkedIn](https://www.linkedin.com/)** | **[Twitter](https://twitter.com/)**
-+- 🗓️ Open for collaborations on AI copilots, immersive dashboards, and platform modernization.
-+
-+> "Make software feel alive—rich UI, adaptive intelligence, relentless polish."
+\documentclass[10pt,a4paper,ragged2e,withhyper,normalphoto]{altacv}
+\DeclareUnicodeCharacter{202F}{~}
+
+\geometry{top=0.6cm,bottom=0.3cm,left=1.25cm,right=1.25cm,columnsep=1.0cm}
+
+\iftutex
+  \setmainfont{Lato}
+\else
+  \usepackage[default]{lato}
+\fi
+
+\definecolor{SpaceBlue}{HTML}{002244}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+
+\colorlet{heading}{SpaceBlue}
+\colorlet{headingrule}{SpaceBlue}
+\colorlet{accent}{SpaceBlue}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+\renewcommand{\cvItemMarker}{{\small\textbullet}}
+\renewcommand{\cvsectionfont}{\large\bfseries}
+\renewcommand{\cvsubsectionfont}{\normalsize\bfseries}
+\renewcommand{\namefont}{\Large\bfseries}
+
+\begin{document}
+
+\name{Bhagyaban Ghadai}
+
+\personalinfo{
+  \email{bhagyabang1999@gmail.com}
+  \phone{+1 (313) 751 0020}
+  \location{Ypsilanti, MI}
+  \linkedin{bhagyabanghadai}
+  \homepage{github.com/bhagyabanghadai}
+}
+
+\makecvheader
+
+% =======================
+% PROFESSIONAL SUMMARY
+% =======================
+\cvsection{Professional Summary}
+\begin{itemize}
+  \item Full-stack developer specializing in \textbf{Java 17, Spring Boot microservices, React, TypeScript, PostgreSQL, and AWS}. 
+  \item Built and optimized \textbf{high-throughput APIs} with Redis caching, async pipelines, and database indexing to improve latency and scalability.
+  \item Designed component-based UIs with \textbf{React + TypeScript}, integrating REST/GraphQL layers for internal dashboards and multi-tenant systems.
+  \item Strong experience deploying cloud-native systems using \textbf{Docker, Terraform, ECS/EKS, CloudWatch, and CI/CD pipelines}.
+\end{itemize}
+
+% =======================
+% TECHNICAL SKILLS
+% =======================
+\cvsection{Technical Skills}
+\begin{itemize}
+  \item \textbf{Frontend:} React, TypeScript, Component Architecture, State Management, API Integration
+  \item \textbf{Backend:} Java 11–17, Spring Boot, REST APIs, GraphQL (Resolvers), Node.js, Redis
+  \item \textbf{Cloud \& DevOps:} AWS (EC2, ECS/EKS, S3, CloudWatch, IAM), Docker, Jenkins, GitHub Actions, Terraform
+  \item \textbf{Databases:} PostgreSQL, MySQL (indexes, partitions, query optimization)
+  \item \textbf{Observability:} OpenTelemetry, Grafana, Log Aggregation, API Profiling
+\end{itemize}
+
+% =======================
+% WORK EXPERIENCE
+% =======================
+\cvsection{Work Experience}
+
+\textbf{Software Developer Intern \textbar{} LidVizion LLC (Remote)} \hfill Jul 2025 -- Present
+\begin{itemize}
+  \item Built internal analytics dashboards using \textbf{React + TypeScript}, reducing UI duplication by \textbf{40\%} through reusable component design.
+  \item Engineered \textbf{Spring Boot microservices} for multi-tenant workloads, cutting p99 latency by \textbf{38\%} through Redis caching and async handlers.
+  \item Implemented \textbf{GraphQL resolvers} to eliminate REST over-fetching, reducing payload size by \textbf{45\%}.
+  \item Automated cloud deployments with \textbf{Terraform + ECS/EKS}, decreasing release-related incidents by \textbf{50\%}.
+  \item Added \textbf{OpenTelemetry traces + Grafana dashboards}, improving debugging and triage time by \textbf{50\%}.
+\end{itemize}
+
+\vspace{0.5em}
+
+\textbf{Associate Consultant \textbar{} Ernst \& Young LLP} \hfill Oct 2021 -- Jun 2023
+\begin{itemize}
+  \item Built workflow modules using \textbf{React + Spring Boot APIs}, increasing regulatory task throughput by \textbf{22\%}.
+  \item Developed \textbf{high-volume microservices} for 50+ enterprise clients, improving query performance by \textbf{28\%} using Redis caching + indexed queries.
+  \item Built automation utilities in \textbf{Node.js} for validation and batch operations, reducing manual workload by \textbf{30\%}.
+  \item Performed \textbf{JMeter load testing + JVM profiling} (GC, heap, thread tuning), improving peak-load stability by \textbf{32\%}.
+  \item Implemented CloudWatch + Grafana dashboards, reducing incident diagnosis time by \textbf{30\%}.
+\end{itemize}
+
+\vspace{0.5em}
+
+\textbf{Software Engineer \textbar{} Datapro IT Pvt. Ltd.} \hfill Jan 2019 -- Sep 2021
+\begin{itemize}
+  \item Delivered customer-facing web modules using \textbf{React + Spring Boot}, reducing user-input errors by \textbf{15\%}.
+  \item Built microservices supporting financial workflows with \textbf{99.9\% uptime} across peak processing loads.
+  \item Optimized PostgreSQL using \textbf{BTREE indexes, RANGE partitioning}, improving reporting latency by \textbf{30\%}.
+  \item Implemented distributed caching and retry patterns, reducing downstream timeout failures by \textbf{25\%}.
+  \item Automated CI/CD using \textbf{Docker + Jenkins}, cutting deployment cycle time by \textbf{50\%}.
+\end{itemize}
+
+% =======================
+% PROJECTS
+% =======================
+\cvsection{Projects}
+\begin{itemize}
+  \item \textbf{MemVra – Full-Stack Memory Platform} \\
+  Designed React UI + Spring Boot backend with Redis caching; added GraphQL edges for structured metadata. Achieved <\textbf{300ms} average API latency.
+
+  \item \textbf{Echo – Real-Time Sync System} \\
+  Built React frontend with WebSocket-based live updates; deployed backend to AWS ECS, enabling multi-region synchronization with \textbf{near-zero downtime}.
+
+  \item \textbf{SOMA – Sustainability Analytics} \\
+  Built ingestion pipelines using Spring Boot + Node utilities and created React dashboards for performance metrics and visualizations.
+\end{itemize}
+
+% =======================
+% EDUCATION
+% =======================
+\cvsection{Education}
+\begin{itemize}
+  \item M.S. in Computer Science, University of South Dakota (GPA 3.6/4.0)
+  \item B.Tech in Computer Science, JNTUH (GPA 3.3/4.0)
+\end{itemize}
+
+% =======================
+% CERTIFICATIONS
+% =======================
+\cvsection{Certifications}
+\begin{itemize}
+  \item AWS Certified Solutions Architect – Associate
+  \item Oracle Certified Professional: Java SE 17 Developer
+  \item OCI 2025 Generative AI Professional
+\end{itemize}
+
+\end{document}
