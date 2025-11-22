@@ -90,7 +90,7 @@
 
 ## 🤝 Signal Boost
 
-- 💌 [hello@bhagyabanghadai.dev](mailto:hello@bhagyabanghadai.dev)
+- 💌 [hello@bhagyabanghadai.dev](mailto:bhagyabang1999@gmail.com)
 - 🌐 [Portfolio](https://bhagyabanghadai.dev) | [LinkedIn](https://www.linkedin.com/in/bhagyabanghadai)
 
 > _Make software feel alive—rich UI, adaptive intelligence, relentless polish._
